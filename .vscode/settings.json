@@ -20,7 +20,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "database": "${workspaceFolder:Global_Unicorn_Companies_Analysis}/data/unicorns_raw.db",
+            "database": "${workspaceFolder:Global_Unicorn_Companies_Analysis}/Startup.db",
             "name": "Unicorn DB"
         }
     ],
