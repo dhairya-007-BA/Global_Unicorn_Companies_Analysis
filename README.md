@@ -24,18 +24,18 @@ DB Browser / VS Code – SQL script execution and database management.
 
 Data Source
 
-Dataset: Startup Growth and Investment Data from Kaggle
-File used: Unicorn_Companies.csv
-Cleaned version: startup_data.csv
+Dataset: Startup Growth and Investment Data from Kaggle,
+File used: Unicorn_Companies.csv,
+Cleaned version: startup_data.csv.
 
 Main Columns
 
-Company
-Valuation (in Billion USD)
-Funding (in Million USD)
-Industry
-Country
-Continent
-Founded Year
-Unicorn Year (derived from Date Joined)
-Investors
+Company,
+Valuation (in Billion USD),
+Funding (in Million USD),
+Industry,
+Country,
+Continent,
+Founded Year,
+Unicorn Year (derived from Date Joined),
+Investors.
